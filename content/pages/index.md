@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: 'Mbolo ! Je suis LIKOUMBI AGONDJO'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      ; j'aide mes clients à faire croître leurs activités en ligne grâce au numérique..
     actions:
       - label: Contact Me
         url: /contact
