@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Mbolo ! Je suis LIKOUMBI AGONDJO'
     subtitle: >-
-      ; j'aide mes clients à faire croître leurs activités en ligne grâce au numérique..
+      J'aide mes clients à faire croître leurs activités en ligne grâce au numérique..
     actions:
       - label: Contact Me
         url: /contact
