@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       J'aide mes clients à faire croître leurs activités en ligne grâce au numérique.
     actions:
-      - label: Contact Me
+      - label: Contactez-moi
         url: /contact
         style: primary
     image: images/hero.png
