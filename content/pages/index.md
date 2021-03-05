@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Mbolo ! Je suis LIKOUMBI AGONDJO; j'aide mes clients à faire croître leurs activités en ligne grâce au numérique'
+    title: 'Mbolo ! Je suis LIKOUMBI AGONDJO; j'aide mes clients à faire croître leurs activités en ligne grâce au numérique.'
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
